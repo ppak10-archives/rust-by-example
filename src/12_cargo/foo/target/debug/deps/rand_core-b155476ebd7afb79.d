@@ -1,0 +1,12 @@
+D:\ppak1\GitHub\rust-by-example\src\12_cargo\foo\target\debug\deps\rand_core-b155476ebd7afb79.rmeta: C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\lib.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\block.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\error.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\impls.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\le.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\os.rs
+
+D:\ppak1\GitHub\rust-by-example\src\12_cargo\foo\target\debug\deps\librand_core-b155476ebd7afb79.rlib: C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\lib.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\block.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\error.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\impls.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\le.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\os.rs
+
+D:\ppak1\GitHub\rust-by-example\src\12_cargo\foo\target\debug\deps\rand_core-b155476ebd7afb79.d: C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\lib.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\block.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\error.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\impls.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\le.rs C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\os.rs
+
+C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\lib.rs:
+C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\block.rs:
+C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\error.rs:
+C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\impls.rs:
+C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\le.rs:
+C:\Users\ppak1\.cargo\git\checkouts\rand-02690058d91f0548\a407bdf\rand_core\src\os.rs:
