@@ -1,3 +1,3 @@
 fn main() {
-  println!("I'm a build script.")
+  println!("I'm a build script.");
 }
